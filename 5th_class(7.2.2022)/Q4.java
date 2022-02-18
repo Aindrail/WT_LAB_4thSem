@@ -173,6 +173,7 @@ public class Q4 {
                     default : System.out.print("Nine");
                     }
                 }
+                sc.close();
             
                 }
 }
