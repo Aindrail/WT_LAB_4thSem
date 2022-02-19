@@ -15,6 +15,7 @@ public class employee {
      comp = sc.next();
      System.out.println("Enter the salary : ");
      salary = sc.nextDouble();
+     sc.close();
    }
   void display()
   {
