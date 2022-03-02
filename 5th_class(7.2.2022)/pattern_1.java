@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
  class pattern_1 {
      public static void main(String[] args){
