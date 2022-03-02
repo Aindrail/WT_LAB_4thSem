@@ -25,7 +25,7 @@ public class Q3 {
      cgpa = sc.nextDouble();
      System.out.println("Enter the sgpa : ");
      sgpa = sc.nextDouble();  
-       
+       sc.close();
   }
   void total()
   {
