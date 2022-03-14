@@ -31,7 +31,7 @@ public class Employee
     {
         Employee obj1 = new Employee();
         obj1.show();
-        Employee obj2 = new Employee("Soham", 74, 50000);
+        Employee obj2 = new Employee("Aindrail", 74, 50000);
         obj2.show();
         Employee obj3 = obj2;
         obj3.show();
